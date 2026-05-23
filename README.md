@@ -2,6 +2,8 @@
 
 Ein kleiner browserbasierter 2.5D-Raycaster im Stil klassischer 90er-Shooter.
 
+<img width="1033" height="649" alt="grafik" src="https://github.com/user-attachments/assets/da2a3d7d-c6a2-4df5-8b98-920d7a109c9a" />
+
 ## Start
 
 Einfach `index.html` im Browser öffnen.
